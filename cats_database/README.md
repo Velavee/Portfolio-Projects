@@ -10,11 +10,11 @@ breed_name,temperament,group,weight,height,country_of_origin
 Each breed takes up one line, and attributes are separated by commas.
 ### Sample Input
 
-bengal,energetic playful,foreign shorthair,11.50,9.00,U.S.A.
-norweigian forest,powerful elegant,norwegian forest,14.00,10.00,Norway
-persian,calm lazy,persian,9.00,12.50,Iran
-russian blue,curious tranquil,foreign shorthair,11.00,10.00,Russia
-siamese,social intelligent,oriental,10.00,22.00,Thailand
+bengal,energetic playful,foreign shorthair,11.50,9.00,U.S.A.  
+norweigian forest,powerful elegant,norwegian forest,14.00,10.00,Norway  
+persian,calm lazy,persian,9.00,12.50,Iran  
+russian blue,curious tranquil,foreign shorthair,11.00,10.00,Russia  
+siamese,social intelligent,oriental,10.00,22.00,Thailand  
 
 ## Operating Instructions
 A makefile is included. You only need to use the make command.
