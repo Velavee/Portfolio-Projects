@@ -8,7 +8,7 @@ If you are using a file with information already written to it, it must be in th
 breed_name,temperament,group,weight,height,country_of_origin
 
 Each breed takes up one line, and attributes are separated by commas.
-## Sample Input
+### Sample Input
 
 bengal,energetic playful,foreign shorthair,11.50,9.00,U.S.A.
 norweigian forest,powerful elegant,norwegian forest,14.00,10.00,Norway
