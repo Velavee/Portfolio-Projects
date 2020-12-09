@@ -11,13 +11,13 @@ N number of lines, each containing two values: P and W. P (1 <= P <= 5000) is th
 The number of people in the family
 F number of lines of value M (1 <= M <= 200) that correspond with the maximum weight that can be carried by the ith person in the family.
 ### Sample Input
-1
-3
-72 17
-44 23
-31 24
-1
-26
+1  
+3  
+72 17  
+44 23  
+31 24  
+1  
+26  
 
 In this example, there is one test case. Three items can be taken from the store. Item 1 has a price of 72 and a weight of 17. Item 2 has a price of 44 and a weight of 23. Item 3 has a price of 31 and a weight of 24. There is one person in the family who can carray a maximum weight of 26.
 ## Operating Instructions
