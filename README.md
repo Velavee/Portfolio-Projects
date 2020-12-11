@@ -1,5 +1,5 @@
 # About
-This repository includes several programming projects that were completed as coursework for my Bachelor's degree in computer science. Thus far, all of the programs included here are command line tool.
+This repository includes several programming projects that were completed as coursework for my Bachelor's degree in computer science. Thus far, all of the programs included here are command line tools.
 The following is a brief description of each project (in order from most recently completed):
 
 ## Sweepstakes Solver
