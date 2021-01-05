@@ -10,3 +10,6 @@ $ gcc -std=gnu99 -g -Wall -o smallsh smallsh.c
 To execute the program, use the following command:
 
 $ ./smallsh
+
+# Credits and Acknowledgements
+This program was completed as an assignment for CS 344 (Operating Systems) at Oregon State University during fall term 2020.
