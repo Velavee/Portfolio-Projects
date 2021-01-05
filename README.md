@@ -2,6 +2,10 @@
 This repository includes several programming projects that were completed as coursework for my Bachelor's degree in computer science. Thus far, all of the programs included here are command line tools.
 The following is a brief description of each project (in order from most recently completed):
 
+## Small Shell
+This is a Linux/Unix type shell that was created with system calls and child processes. In addition to basic Unix commands, it includes input/output redirection, foreground and background modes, and custom signal handlers.
+**Language:** C  
+
 ## Sweepstakes Solver
 Determines what items each member of a family should take from a store to maximize the value of total items. This program is implemented with dynamic programming.  
 **Language:** C++
