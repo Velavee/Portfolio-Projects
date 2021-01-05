@@ -3,7 +3,7 @@ This repository includes several programming projects that were completed as cou
 The following is a brief description of each project (in order from most recently completed):
 
 ## Small Shell
-This is a Linux/Unix type shell that was created with system calls and child processes. In addition to basic Unix commands, it includes input/output redirection, foreground and background modes, and custom signal handlers.
+This is a Linux/Unix type shell that was created with system calls and child processes. In addition to basic Unix commands, it includes input/output redirection, foreground and background modes, and custom signal handlers.  
 **Language:** C  
 
 ## Sweepstakes Solver
